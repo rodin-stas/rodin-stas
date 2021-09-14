@@ -4,22 +4,23 @@
 
 ## Мои скиллы на данный момент:
 
-- БЭМ, HTML5, CSS3, JS , jQuery,php, Gulp.js
+- БЭМ, HTML5, CSS3, JS , jQuery,php, Gulp.js, WebPack
 - wordpress + woocommerce - на уровне написания кастомных тем с нуля
 - Figma, Zeplin, Photoshop, Avocode
 - Адаптивная верстка / Responsive/ Mobile first
 - Google Page Speed
-- Bootstrap, Less/Scss, Git
+- Bootstrap, Less/Scss
+- Git
 - Кроссбраузерность
+- SQL
+- WebTuotor: xml, XQuery
 
 ---
 
 ## Что учу в данный момент:
 
-- 🏫 Ванильный JS
-- 🏫 Базовый React
+- 🏫 React + Redux
 
-[Мой сайт с портфолио](http://portfolio.cr21188.tmweb.ru/)  
 [Можете добавить в друзья во Вконтакте](https://vk.com/id283499)  
 [Телеграм](https://t.me/stasir)  
 [Email](rodinstas@gmail.com)
